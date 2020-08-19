@@ -7,10 +7,30 @@ margin-right: 30px;
 }
 
 h1 {
-font-size: 40px;
+color: #000;
+    line-height: 1;
+    text-transform: uppercase;
+    color: #252525;
+    font-size: 28px;
+    font-family: "abinbevheadlines",Arial,sans-serif;
+    font-weight: 700;
+    margin-bottom: 0;
+    margin-top: 0;
 }
-p { text-align: justify;
-    font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif;
+p { font-family: "Lato",Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    
 } 
+
+div.a {
+
+   -webkit-text-decoration-line: overline; /* Safari */
+   text-decoration-line: overline; 
+   
+   
+}
+
+
 
 
