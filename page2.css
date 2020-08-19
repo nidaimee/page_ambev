@@ -4,9 +4,9 @@ body {
 }
 
 .page-header {
- background: #ba0c2f;
-    background: -webkit-gradient(linear, left top, right top, from(#ba0c2f), to(#451311));
-    background: linear-gradient(to right, #ba0c2f 0%, #451311 100%);
+  background: #ba0c2f;
+  background: -webkit-gradient(linear, left top, right top, from(#ba0c2f), to(#451311));
+  background: linear-gradient(to right, #ba0c2f 0%, #451311 100%);
   color: white;
   margin-top: 0;
   text-align: center;
