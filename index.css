@@ -1,0 +1,16 @@
+div {
+display: flex; 
+}
+
+img {
+margin-right: 30px;
+}
+
+h1 {
+font-size: 40px;
+}
+p { text-align: justify;
+    font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif;
+} 
+
+
