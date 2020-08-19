@@ -1,6 +1,6 @@
 body {
   font-family: "Ubuntu", sans-serif;
-  font-size: 16px;
+  font-size: 10px;
 }
 
 .page-header {
@@ -11,22 +11,6 @@ body {
   margin-top: 0;
   text-align: center;
   padding: 2% 0;
-}
-
-footer {
-  background-color: #dd4814;
-  text-align: center;
-  color: white;
-  padding: 2.5%;
-}
-footer a {
-  color: white;
-  border-bottom: 1px dotted white;
-}
-footer a:hover, footer a:active, footer a:focus {
-  color: white;
-  border-bottom: 1px solid white;
-  text-decoration: none;
 }
 
 .text-picture {
@@ -55,7 +39,6 @@ footer a:hover, footer a:active, footer a:focus {
 @media (min-width: 768px) {
   .row--flex {
     display: -webkit-box;
-    display: flex;
   }
   .row--flex .row--flex__col {
     align-self: flex-start;
